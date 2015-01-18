@@ -1,4 +1,4 @@
-Duplicate of project instructions included below. Resources list included as [RESOURCES.md](RESOURCES.MD) file at root level.
+Duplicate of project instructions included below. Resources list included as [RESOURCES.md](/frontend-nanodegree-resume/RESOURCES.MD) file at root level.
 
 ## How do I complete this project?
 
