@@ -1,4 +1,4 @@
-# Duplicate of Project Instructions from Fork Below
+Duplicate of project instructions included below. Resources list included as [RESOURCES.md](RESOURCES.MD) file at root level.
 
 ## How do I complete this project?
 
