@@ -213,3 +213,9 @@ span {
     display: block;
   }
 }
+
+/* specialized CSS */
+
+.onlineClassesHeader {
+    padding: 20px 0px 0px 18px;
+}
